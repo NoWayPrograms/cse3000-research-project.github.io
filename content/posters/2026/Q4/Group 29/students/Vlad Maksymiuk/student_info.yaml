@@ -1,0 +1,5 @@
+thesisTitle: 'How Reproducible Are Build, and Test Outcomes of Dependency Updates in JavaScript/npm Projects?'
+paperUrl: 'https://repository.tudelft.nl/record/uuid:fb6b7d99-5c60-454f-a499-0433a285a9d8'
+firstName: Vlad
+lastName: Maksymiuk
+repositoryUrl: 'https://github.com/l0av/dependency-update-reproducibility-tool'
