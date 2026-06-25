@@ -1,4 +1,5 @@
-thesisTitle: Exploring The Relationship Between Unwind Bound and Model Checking Complexity in CBMC
-paperUrl: ''
-firstName: Mihai-Filip
-lastName: Frânculescu
+thesisTitle: Rewriting TLA+ Fairness Conditions for Symbolic Model Checking
+paperUrl: 'https://resolver.tudelft.nl/uuid:2ba5e761-fa5a-4abe-a862-0353479f6f30'
+firstName: Sage
+lastName: Łuszczyk
+repositoryUrl: 'https://github.com/sage-systems/liveness-rewriting'
