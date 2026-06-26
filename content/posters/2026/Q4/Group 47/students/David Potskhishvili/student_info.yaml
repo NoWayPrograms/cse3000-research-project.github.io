@@ -1,4 +1,4 @@
-thesisTitle: Concurrency and Async Practices in Real-World Rust
+thesisTitle: 'Concurrency and Async Practices in Real-World Rust: How are lock-free and atomic-based concurrency techniques used in Rust crates?'
 paperUrl: 'http://resolver.tudelft.nl/uuid:a25b722f-3924-48e2-b911-e47d178db50a'
 firstName: David
 lastName: Potskhishvili
